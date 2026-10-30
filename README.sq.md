@@ -2,11 +2,11 @@
 
 # Influencer
 
-**Gjeni zërin e markës suaj.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Influencer — Creator marketing; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="Influencer — prezantim vizual i produktit" />
+
+**Gjeni zërin e markës suaj.**
 
 [![Website](https://img.shields.io/badge/influencer.mk-Official_Website-1476e8?style=for-the-badge)](https://influencer.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://influencer.mk/)
@@ -69,7 +69,7 @@ Krahasimi i dobishëm është përputhja mes kërkesave dhe ofertës së krijues
 | Hollësia | Vlera |
 |---|---|
 | Faqja | [influencer.mk](https://influencer.mk/) |
-| Kategoria | Creator marketing |
+| Kategoria | Marketing përmes krijuesve |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimet e prezantimit: [1](https://influencer.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

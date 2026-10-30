@@ -2,11 +2,11 @@
 
 # Influencer
 
-**Markanızın sesini bulun.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Influencer — Creator marketing; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="Influencer — ürün görsel sunumu" />
+
+**Markanızın sesini bulun.**
 
 [![Website](https://img.shields.io/badge/influencer.mk-Official_Website-1476e8?style=for-the-badge)](https://influencer.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://influencer.mk/)
@@ -69,7 +69,7 @@ Anlamlı karşılaştırma, brief ile üreticinin teklifinin uyumudur. Profiller
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [influencer.mk](https://influencer.mk/) |
-| Kategori | Creator marketing |
+| Kategori | İçerik üreticisi pazarlaması |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://influencer.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
