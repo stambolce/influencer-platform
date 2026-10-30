@@ -4,7 +4,7 @@
 
 **Find the voice for your brand.**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <img src="assets/product-hero.svg" width="100%" alt="Influencer — Creator marketing; conceptual illustration" />
 
